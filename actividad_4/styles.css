@@ -3,8 +3,8 @@
     width: 100%;
     background-color: lightgray;
     display: grid;
-    grid-template-columns: 1fr 100px 2fr; /* Tres columnas con anchos de 1fr, 100px y 2fr */
-    grid-template-rows: 59px 59px; /* Dos filas de 59px cada una */
+    grid-template-columns: 1fr 100px 2fr;
+    grid-template-rows: 59px 59px;
 }
 
 .d1 {
