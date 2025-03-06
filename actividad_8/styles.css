@@ -28,5 +28,5 @@
 .d5 {
     background-color: lightgreen;
     grid-column: 2 / 4;
-    grid-row: 2 / 4; /* Hace que el elemento ocupe las últimas dos filas */
+    grid-row: 2 / 4;
 }
